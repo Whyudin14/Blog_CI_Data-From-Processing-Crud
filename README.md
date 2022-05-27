@@ -1,1 +1,2 @@
-# Blog_CI_Data-From-Processing-Crud
+# Pertemuan8_database_CI
+Tugas Praktikum Pertemuan 8
